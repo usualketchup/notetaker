@@ -9,7 +9,7 @@ https://github.com/usualketchup/notetaker
 
 ## Description
 
-* An application is used to write, save, and delete notes. This application uses an express backend and saves and retrieve note data from a JSON file.The following HTML routes have been created:
+* An application is used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.The following HTML routes have been created:
 
   * GET `/notes` -  Returns the `notes.html` file.
 
@@ -30,7 +30,7 @@ https://github.com/usualketchup/notetaker
 
 * Upon launching the app, users would be able to take persistent notes allows him to write, read and delete information available when needed.It allows users to create and save notes, view previously saved notes and delete previously saved notes.
 
-## Technologies:-
+## Technologies Used:
 
     * HTML
     * CSS 
@@ -40,7 +40,7 @@ https://github.com/usualketchup/notetaker
     * NPM that uses Express, Data Parser, FS
     * Local PORT Server
 
-## Challenges:-
+## Challenges:
 
 * This activity took some time to do because building the backend without that much experience with it took a lot of time. I feel like I have more of a concrete understanding of running servers and deploying from Heroku.
 
