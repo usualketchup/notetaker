@@ -30,7 +30,7 @@ https://github.com/usualketchup/notetaker
 
 * Upon launching the app, users would be able to take persistent notes allows him to write, read and delete information available when needed.It allows users to create and save notes, view previously saved notes and delete previously saved notes.
 
-## Technologies:-
+## Technologies:
 
     * HTML
     * CSS 
@@ -40,7 +40,7 @@ https://github.com/usualketchup/notetaker
     * NPM that uses Express, Data Parser, FS
     * Local PORT Server
 
-## Challenges:-
+## Challenges:
 
 * This activity took some time to do because building the backend without that much experience with it took a lot of time. I feel like I have more of a concrete understanding of running servers and deploying from Heroku.
 
